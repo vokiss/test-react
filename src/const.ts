@@ -1,5 +1,6 @@
 import data from './data.json';
 
+export const basenameUrl = "/test-react"
 export const DEFAULT_SEARCH_PARAMS = { tab: '0' };
 export type USERDATA = (typeof data.data)[0];
 export type USERSDATA = USERDATA[];
