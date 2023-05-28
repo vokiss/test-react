@@ -1,3 +1,2 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Working build
+(https://vokiss.github.io/test-react/)
